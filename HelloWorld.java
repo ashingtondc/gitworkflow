@@ -1,4 +1,7 @@
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Ash Parasa"); 
+<<<<<<< HEAD
+        System.out.println("3 years"); 
+=======
+>>>>>>> master
     }
